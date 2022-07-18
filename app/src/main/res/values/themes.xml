@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FamPayProject" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+<!--        <color name="colorPrimaryDark">#3700B3</color>-->
+
+<!--        <color name="colorAccent">#03DAC5</color>-->
+
+<!--        <color name="white">#FFFFFF</color>-->
+
+<!--        <color name="black">#000000</color>-->
+
+<!--        <color name="colorMenuButton">#F7F6F3</color>-->
+
+<!--        <color name="colorContextualCards">#4C5454</color>-->
+
+<!--        <color name="colorWindowBackground">#F7F6F3</color>-->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

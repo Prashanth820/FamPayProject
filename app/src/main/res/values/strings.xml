@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FamPay Project</string>
+    <string name="check_connection">No internet connection!</string>
+    <string name="remind">Remind Later</string>
+    <string name="dismiss">Dismiss Now</string>
+    <string name="timeout_error">Request Timed Out. Please Try Again :(</string>
+    <string name="http_exception">An HTTP Exception occurred. Please Retry :(</string>
+    <string name="unknown_error">An unknown error occurred. Please try again in some time</string>
+</resources>
