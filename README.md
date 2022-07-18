@@ -4,8 +4,8 @@
 * Directly through this link: [master/apk](https://github.com/Prashanth820/FamPayProject/blob/main/app-debug.apk)
 
 ## Screenshots
-|Application Icon|Splash Screen|
-|--|--|
+|Splash Screen|
+|--|
 |<img src="https://files.gitter.im/5e46e1d4d73408ce4fd9acef/7tdM/splash_screen.jpg" height=550>|
 ---
 
